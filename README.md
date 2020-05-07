@@ -1,4 +1,4 @@
-# docker_practice
+# docker_practice_nodejs
 
 1. 도커파일 생성(Dockerfile, 확장자 X)
 
